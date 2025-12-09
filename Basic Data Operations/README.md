@@ -30,4 +30,4 @@ In this notebook, you will find step-by-step examples of how to work with struct
 - Creating flags and derived metrics  
 
 ### **4. Working With Lists as Tables**
-Since no dictionaries or pandas DataFrames were used, every dataset is represented as:
+Since no dictionaries or pandas DataFrames were used, every dataset is represented as a sublist.
